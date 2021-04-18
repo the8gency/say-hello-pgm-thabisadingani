@@ -81,13 +81,13 @@ Two of my biggest passions are web design and web development 💻.
 
 <br/>
 
-### 📈Thabisa's GitHub stats 
+### Thabisa's GitHub stats 📈
 
 ![Thabisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-thabisadingani&show_icons=true&hide=contribs,prs&bg_color=262B37&title_color=F4BF1D&icon_color=F4BF1D&text_color=ffffff)
 
 <br/>
 
-### 🦄EXTRA INFORMATION 
+### EXTRA INFORMATION 🦄
 
 * 💬**Languages:**
 
