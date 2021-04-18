@@ -1,5 +1,5 @@
 
-![thabisa dingani's banner](thabisa.png)
+![thabisa dingani's banner](img/thabisa.png)
 
 ---
 
