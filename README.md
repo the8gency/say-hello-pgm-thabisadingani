@@ -1,6 +1,10 @@
 
 ![thabisa](thabisa.png)
+
+---
+
 <br/>
+
 ### ABOUT ME😊
 
 I am a flexible and hardworking person with a practical “can-do” 💪 attitude. Thanks to my creativity 🎨, I'm always able to solve problems, both personal and technical.
@@ -79,10 +83,10 @@ Two of my biggest passions are web design and web development 💻.
 ### 📈Thabisa's GitHub stats 
 
 ![Thabisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-thabisadingani&show_icons=true&hide=contribs,prs&bg_color=262B37&title_color=F4BF1D&icon_color=F4BF1D&text_color=ffffff)
+
 <br/>
 
 ### 🦄EXTRA INFORMATION 
-
 
 * 💬**Languages:**
 
