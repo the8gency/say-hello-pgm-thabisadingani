@@ -1,8 +1,6 @@
-
 ![thabisa dingani's banner](img/thabisa.png)
 
 ---
-
 
 ### ABOUT ME😊
 
@@ -14,36 +12,47 @@ Two of my biggest passions are web design and web development 💻.
 
 ### MY EXPERIENCE 💼
 
+⏳*2022-2022*
+
+📝Front-end developer (internship)
+
+- Developing user-facing features.
+- Determining the structure and design of web pages.
+- Building reusable code for future use.
+- Ensuring web design is optimized for smartphones.
+- Maintaining brand consistency throughout the web pages.
+- Using a variety of tools & frameworks and technologies to create the web pages.
+
 🏬 **Primark**
 
 ⏳*2016-2018*
 
 📝Sales Assistant
+
 - Stock control and management.
 - Reporting discrepancies and problems to the supervisor.
 - Stocking shelves with merchandise.
 - Giving advice and guidance on product selection to customers.
-
 
 🏬 **Group Van Vooren**
 
 ⏳*2015-2015*
 
 📝 Soil Analyst
-- Studie soil characteristics and classifies soil. 
-- Perform soil chemical analysis.  
-- Investigate responses of specific soil types to soil management practices.  
-  
+
+- Studie soil characteristics and classifies soil.
+- Perform soil chemical analysis.
+- Investigate responses of specific soil types to soil management practices.
+
 <br/>
 
 ### MY EDUCATION 📚
 
 🏫**Arteveldehogeschool**
 
-⏳*2020-Now*
+⏳*2020-2022*
 
-- Associate Degree in Computer Programming. 
-
+- Associate Degree in Computer Programming.
 
 🏫**UGent**
 
@@ -51,13 +60,11 @@ Two of my biggest passions are web design and web development 💻.
 
 - Voortraject Hoger Onderwijs voor Anderstaligen.
 
-
 🏫**VDAB**
 
 ⏳*2015-2015*
 
 - Sales assistant training in retail.
-
 
 🏫**SNT Brugge**
 
@@ -69,15 +76,14 @@ Two of my biggest passions are web design and web development 💻.
 
 ### MY SKILLS 🔔
 
-|**Soft Skills**    |              |     |**Hard Skills**   |             | 
-|:------------------|:------------:|:---:|:-----------------|------------:|
-|Creativity         |🌕🌕🌕🌕🌗  |     |HTML/CSS         |🌕🌕🌕🌕🌗 | 
-|Problem Solving    |🌕🌕🌕🌕🌗  |     |WordPress        |🌕🌕🌕🌕🌑 |    
-|Flexibility        |🌕🌕🌕🌕🌑  |     |UI/UX design     |🌕🌕🌕🌕🌑 |     
-|Optimism           |🌕🌕🌕🌕🌑  |     |Sass/Scss        |🌕🌕🌕🌗🌑 |     
-|Communication      |🌕🌕🌕🌕🌑  |     |JavaScript       |🌕🌕🌕🌑🌑 |   
-|Teamwork           |🌕🌕🌕🌑🌑  |     |JS-Frameworks    |🌕🌕🌗🌑🌑 | 
-                                                                           
+| **Soft Skills** |            |     | **Hard Skills** |            |
+| :-------------- | :--------: | :-: | :-------------- | ---------: |
+| Creativity      | 🌕🌕🌕🌕🌗 |     | HTML/CSS        | 🌕🌕🌕🌕🌗 |
+| Problem Solving | 🌕🌕🌕🌕🌗 |     | WordPress       | 🌕🌕🌕🌕🌑 |
+| Flexibility     | 🌕🌕🌕🌕🌑 |     | UI/UX design    | 🌕🌕🌕🌕🌑 |
+| Optimism        | 🌕🌕🌕🌕🌑 |     | Sass/Scss       | 🌕🌕🌕🌗🌑 |
+| Communication   | 🌕🌕🌕🌕🌑 |     | JavaScript      | 🌕🌕🌕🌑🌑 |
+| Teamwork        | 🌕🌕🌕🌑🌑 |     | JS-Frameworks   | 🌕🌕🌗🌑🌑 |
 
 <br/>
 
@@ -89,19 +95,17 @@ Two of my biggest passions are web design and web development 💻.
 
 ### EXTRA INFORMATION 🦄
 
-* 💬**Languages:**
+- 💬**Languages:**
 
-     * English: (Very Good)
-     * Dutch: (Good)
+  - English: (Very Good)
+  - Dutch: (Good)
 
-* 🎭**Interests:**
+- 🎭**Interests:**
 
-   * My interests include reading, sketching websites, aerobics and yoga.
+  - My interests include reading, sketching websites, aerobics and yoga.
 
-----
+---
 
-> 📧 <thabisad6@hotmail.co.uk> • ☎️ 0478570549  • 🏡 Eeklo, 9900 
-> 
-> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/thabisa-dingani-b173251b7/)
-> [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/pgm-thabisadingani)
->  [<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">](https://codepen.io/Mthabied)
+> 📧 <thabisad6@hotmail.co.uk> • ☎️ 0478570549 • 🏡 Eeklo, 9900
+>
+> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/thabisa-dingani-b173251b7/) > [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/pgm-thabisadingani) > [<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">](https://codepen.io/Mthabied)
